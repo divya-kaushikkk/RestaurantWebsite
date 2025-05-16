@@ -5,9 +5,9 @@
 
    - Custom Google Fonts integration
 
-   -Unique image presentation with curved corners
+   - Unique image presentation with curved corners
 
-   -Responsive-ready structure (updates coming soon)
+   - Responsive-ready structure (updates coming soon)
 
 🚧 Upcoming Additions (Part 2)
   - Full responsive design (for mobile/tablet)
@@ -19,10 +19,10 @@
   - Contact form & footer
 
 🛠️ Tech Stack
-  -HTML5
+  - HTML5
   
-  -CSS3
+  - CSS3
 
-  -Google Fonts
+  - Google Fonts
 
-  -Unsplash images
+  - Unsplash images
