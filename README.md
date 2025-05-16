@@ -16,7 +16,8 @@
 
   - Menu section with food items
 
-  - Contact form & footer
+  - Contact form & footer!
+
 
 🛠️ Tech Stack
   - HTML5
